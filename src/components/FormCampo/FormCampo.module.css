@@ -1,7 +1,7 @@
 .formCampo {
     margin: 0 25px;
     text-align: left;
-    max-width: 150px; /* Defina o tamanho máximo dos campos */
+    max-width: 150px;
 }
 
 .formCampo label {
