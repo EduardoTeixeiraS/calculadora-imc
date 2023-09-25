@@ -1,0 +1,25 @@
+h1 {
+    padding: 25px;
+}
+
+.calculadora {
+    text-align: center;
+}
+
+.camposContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.resultado {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.tratamento {
+    font-size: 16px;
+    margin-top: 5px;
+    color: #555; /* Altere a cor conforme preferir */
+}

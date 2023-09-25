@@ -1,0 +1,19 @@
+.formCampo {
+    margin: 0 25px;
+    text-align: left;
+    max-width: 150px; /* Defina o tamanho máximo dos campos */
+}
+
+.formCampo label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.formCampo input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
